@@ -1,0 +1,9 @@
+========== STUDENT DATABASE ==========
+
+Student ID   : 1
+Name         : aa
+Department   : CS
+Level        : 7
+GPA (5.0)    : 5.00
+Courses      : c++ (100.0%)
+--------------------------------------
